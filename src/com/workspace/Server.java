@@ -7,7 +7,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * Classification: Trimble Confidential.
+ * 
  * Description: Custom Banner for Startup
  *
  * @author: Ashwin Padmakumar

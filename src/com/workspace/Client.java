@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.net.Socket;
 
 /**
- * Classification: Trimble Confidential.
+ *
  * Description: Custom Banner for Startup
  *
  * @author: Ashwin Padmakumar
